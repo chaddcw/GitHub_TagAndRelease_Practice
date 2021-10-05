@@ -12,6 +12,15 @@ git tag
 ```
 More info on [git tag](https://www.freecodecamp.org/news/git-tag-explained-how-to-add-remove/)
 
+If you want to checkout the source code of a particular tag at the command line:
+```
+git checkout v1.0
+```
+
+To switch back to the current development version:
+```
+git checkout main
+```
 
 ## Edit this:
 
