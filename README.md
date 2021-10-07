@@ -24,6 +24,6 @@ git checkout main
 
 ## Edit this:
 
-NAME
+chadd
 
 COURSE
