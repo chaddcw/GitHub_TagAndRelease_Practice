@@ -26,4 +26,4 @@ git checkout main
 
 chadd
 
-COURSE
+CS360
